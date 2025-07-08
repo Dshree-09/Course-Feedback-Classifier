@@ -1,0 +1,51 @@
+Student_ID,Feedback,Predicted_Category
+1001,The air conditioning in the library isn't working properly.,Facilities
+1002,The professor is always late and rushes through the syllabus.,Academics
+1003,The canteen food quality has improved a lot recently.,Facilities
+1004,There’s too much bureaucracy involved in getting any certificate.,Administration
+1005,Wi-Fi is very slow in the hostel building.,Facilities
+1006,The admin staff was helpful during my document verification.,Administration
+1007,There are not enough books in the Computer Science section.,Facilities
+1008,Maintenance issues in the washrooms are never resolved on time.,Facilities
+1009,The attendance system is very inconsistent and confusing.,Administration
+1010,Our instructor explains every concept clearly with good examples.,Academics
+1011,The computer lab systems are outdated and slow.,Facilities
+1012,The fees submission portal crashes during peak hours.,Administration
+1013,Cafeteria lacks healthy food options.,Facilities
+1014,We need more guest lectures and industry exposure.,Academics
+1015,It's difficult to get transcripts without multiple visits.,Administration
+1016,Fans in the classrooms don't work during summer.,Facilities
+1017,The academic calendar was not shared on time.,Administration
+1018,Security guards are very polite and helpful.,Administration
+1019,There is no clear process to apply for scholarships.,Administration
+1020,The lecture slides are not uploaded regularly.,Academics
+1021,Elevators in the hostel block often remain non-functional.,Facilities
+1022,The internal assessment system is not transparent.,Academics
+1023,There are too few dustbins in the college premises.,Facilities
+1024,Timetable changes are communicated very late.,Administration
+1025,The biometric attendance device often fails to work.,Facilities
+1026,No water in the boys’ hostel for two days last week.,Facilities
+1027,We don't get any updates from the administration about events.,Administration
+1028,Classroom projectors stop working frequently.,Facilities
+1029,Online classes are often cancelled without prior notice.,Academics
+1030,The scholarship form website is always down.,Administration
+1031,No orientation was conducted for new students.,Administration
+1032,The parking area is too congested.,Facilities
+1033,Teachers are approachable and always willing to help.,Academics
+1034,There is a delay in revaluation results every semester.,Administration
+1035,The washroom near Block B is unhygienic.,Facilities
+1036,There should be more practice sessions for core subjects.,Academics
+1037,Sports equipment is outdated and insufficient.,Facilities
+1038,The student portal takes too long to load results.,Administration
+1039,Library timings should be extended before exams.,Facilities
+1040,The canteen staff is often rude.,Facilities
+1041,Power cuts in the academic block disrupt classes.,Facilities
+1042,Many lights in the campus are not working.,Facilities
+1043,The admin office takes too long to respond to emails.,Administration
+1044,No clear grievance redressal system for students.,Administration
+1045,My mentor is very supportive academically and emotionally.,Academics
+1046,Cultural activities are poorly organized and rarely on time.,Administration
+1047,We never receive circulars about holidays on time.,Administration
+1048,Faculty often skips practical sessions.,Academics
+1049,The hostel mess lacks hygiene standards.,Facilities
+1050,Many classrooms lack proper ventilation and are overcrowded.,Facilities
